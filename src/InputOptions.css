@@ -1,0 +1,25 @@
+.inputOptions{
+    /* display: grid; */
+    /* align-items: center; */
+    /* margin-top: 10px;
+    margin-bottom: 0; */
+    /* color: gray; */
+    /* padding: 10px; */
+    cursor: pointer;
+    justify-content: center;
+    /* background-color: white; */
+}
+
+.inputOptions:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.inputOptions >h4{
+    /* margin-left: 5px; */
+    align-self: center;
+}
+
+.inputoptions_icon{
+    align-self: center;
+}

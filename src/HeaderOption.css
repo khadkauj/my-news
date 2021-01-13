@@ -1,0 +1,38 @@
+.header_options{
+    display: grid;
+    place-items: center;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color:gray;
+    cursor: pointer;
+   
+
+}
+
+.header_options:hover{
+    /* when you put cursor it changes to black */
+    color: black;
+}
+
+
+ 
+/* .header_option_icon >n{
+     object-fit: contain;
+    height: 25px;
+    
+    place-items: center; 
+     top: 0px !important; 
+}  */
+
+.header_option_title{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.avatar_icon{
+    display: grid;
+    place-items: center;
+    top: 0;
+    margin: 0;
+}
